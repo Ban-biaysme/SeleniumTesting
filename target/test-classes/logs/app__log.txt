@@ -1,0 +1,2 @@
+INFO    2021-07-29 10:10:56,431 [main] utilities.TestLog  - This is the information log
+ERROR   2021-07-29 10:10:56,466 [main] utilities.TestLog  - This is the error log
